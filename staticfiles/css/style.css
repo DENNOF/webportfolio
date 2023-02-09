@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(231, 33, 33)
+}
+
+#pic-wrapper{
+    text-align: center; 
+}
+
+#pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+    padding: 0;
+    list-style: none;
+}
+
+.social-links ul, li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.social{
+    width: 60px;
+    height: 60px;
+
+}
+#spacing{
+    padding: 2%;
+}
+
+#myh1{
+    align-items: center;
+}
